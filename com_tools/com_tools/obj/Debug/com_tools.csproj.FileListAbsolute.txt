@@ -1,0 +1,7 @@
+C:\Projects\Tools\com_tools\com_tools\bin\Debug\com_tools.exe.config
+C:\Projects\Tools\com_tools\com_tools\bin\Debug\com_tools.exe
+C:\Projects\Tools\com_tools\com_tools\bin\Debug\com_tools.pdb
+C:\Projects\Tools\com_tools\com_tools\obj\Debug\com_tools.csproj.CoreCompileInputs.cache
+C:\Projects\Tools\com_tools\com_tools\obj\Debug\com_tools.exe
+C:\Projects\Tools\com_tools\com_tools\obj\Debug\com_tools.pdb
+C:\Projects\Tools\com_tools\com_tools\obj\Debug\com_tools.csprojAssemblyReference.cache
